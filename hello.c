@@ -7,3 +7,5 @@ printf("hello world\n");
 return 0;
 
 }
+
+updata the file
